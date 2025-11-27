@@ -1,13 +1,12 @@
-# Oi! Eu sou Aline!👋🏽
+# Hi! I'm Aline!
 
-### Bem-vindo ao meu perfil do GitHub!
-Este perfil é usado para fins acadêmicos, como projetos da faculdade, e estudos pessoais em áreas de meu interesse. As linguagens utilizadas podem variar bastante, principalmente porque a faculdade é meu principal foco no momento! 
+### Welcome to my GitHub profile!
+This profile is used mainly for academic purposes—university projects and personal studies in areas I’m interested in. The languages I use vary a lot, especially because university is my main focus right now.
 
-## Sobre mim👩🏽‍💻
-- 📚 Estudo Engenharia da Computação no CIN-UFPE
-- 🤖 Tenho focado no estudo de áreas relacionadas a Engenharia de Dados, principalmente Python e SQL.
-- 📩 Você pode me encontrar em:
-
+## About me 👩🏽‍💻 
+- 🇫🇷 I'm currently pursuing a **double degree at Télécom SudParis (Institut Polytechnique de Paris)**. In Brazil, I study Computer Engineering at CIN-UFPE 
+- 🤖 I've been focusing on **Data Science and Machine Learning**, especially using **Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn**, and other Python libraries  
+- 📩 You can find me at:
 
 <div align="center">
 
@@ -17,12 +16,11 @@ Este perfil é usado para fins acadêmicos, como projetos da faculdade, e estudo
 
 </div>
 
-## Linguagens e Ferramentas 
+## Languages and Tools 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-fortaleza&count_private=true&layout=compact&locale=pt-br&title_color=d86450ff&icon_color=c17041ff&text_color=55522F&bg_color=f3e0d1ff&card_width=495?"/>
 </a>
-
 
 <div align="center">
 
@@ -39,22 +37,7 @@ Este perfil é usado para fins acadêmicos, como projetos da faculdade, e estudo
 
 </div>
 
-## Outras Habilidades
-- 🌐 Inglês Avançado (Certificação TOEFL)
-- ⏩ Metodologias Ágeis
+## Other Skills
+- 🌐 Advanced English (TOEFL and TOEIC Certification) and Intermediate French (TCF Certification)
+- ⏩ Agile Methodologies
 - 🖌️ Canva
-
-<!--
-**aline-fortaleza/aline-fortaleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
